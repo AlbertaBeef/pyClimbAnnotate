@@ -2,7 +2,7 @@
 Annotation Tool for Climbing Videos
 
 # Demo
-For a demo of the status of the project, refer to the follwoing videos on YouTube: 
+For a demo of the status of the project, refer to the following videos on YouTube: 
 [![pyClimbAnnotate Demo](https://img.youtube.com/vi/CQ2Il_q6Xrs/0.jpg)](https://www.youtube.com/watch?v=CQ2Il_q6Xrs)
 
 
